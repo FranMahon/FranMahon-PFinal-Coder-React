@@ -1,0 +1,17 @@
+/*-Pasos del proyecto-*/
+Paso 1: 
+-> Crear action file 
+  ...
+-> Create reducer file 
+  ...
+-> Crear main file
+  ...
+-> Crear el store file
+  ...
+
+Paso 2: 
+-> Ir al header usando el useSelector
+   useSelector() => 
+  
+Paso 3: 
+-> Ir a la tienda y agregar el item
